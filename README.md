@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o [Seu Nome]
+# 👋 Olá! Eu sou o Pietro
 
-Tenho **17 anos** e sou apaixonado por tecnologia e desenvolvimento de software.  
+Tenho 17 anos e sou apaixonado por tecnologia e desenvolvimento de software.  
 Estou sempre em busca de aprender mais e criar soluções úteis e bem estruturadas.
 
 ---
@@ -8,9 +8,9 @@ Estou sempre em busca de aprender mais e criar soluções úteis e bem estrutura
 ## 🚀 Sobre mim
 
 - 🎂 **Idade:** 17 anos  
-- 🌍 **Localização:** Brasil  
-- 💻 **Foco:** Desenvolvimento backend, automação e sistemas full-stack  
-- 📚 **Atualmente estudando:** Estruturas de dados, APIs REST e boas práticas de código  
+- 🌍 **Localização:** Paulista PE  
+- 💻 **Foco:** Desenvolvimento backend
+- 📚 **Atualmente estudando:** Estruturas de dados  
 - 🎯 **Objetivo:** Me tornar um desenvolvedor completo e contribuir com projetos open source
 
 ---
