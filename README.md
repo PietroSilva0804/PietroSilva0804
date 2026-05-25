@@ -1,45 +1,50 @@
-# 👋 Olá! Eu sou o Pietro
+[README.md](https://github.com/user-attachments/files/28225369/README.md)
+# 👋 Olá, eu sou Alex Dev!
 
-Tenho 17 anos e sou apaixonado por tecnologia e desenvolvimento de software.  
-Estou sempre em busca de aprender mais e criar soluções úteis e bem estruturadas.
+> *"Todo expert já foi um iniciante. O segredo é não parar."*
 
----
-
-## 🚀 Sobre mim
-
-- 🎂 **Idade:** 17 anos  
-- 🌍 **Localização:** Paulista PE  
-- 💻 **Foco:** Desenvolvimento backend
-- 📚 **Atualmente estudando:** Estruturas de dados  
-- 🎯 **Objetivo:** Me tornar um desenvolvedor completo e contribuir com projetos open source
+Estudante apaixonado(a) por desenvolvimento de software, baseado(a) em Recife 🌴. Atualmente construindo minha base em Python e desenvolvimento web, um projeto de cada vez.
 
 ---
 
-## 📌 Linguagens que mais domino
+## 🧑‍💻 Sobre mim
 
-### 1. **Python** 🐍  
-Automação, análise de dados, scripts, back-end com Django/FastAPI
-
-### 2. **TypeScript** 📘  
-Aplicações full-stack, React, Node.js, tipagem estática e escalabilidade
-
----
-
-## 📊 Outras tecnologias que conheço
-
-- JavaScript  
-- SQL  
-- Git & GitHub  
-- HTML/CSS
+```python
+alex = {
+    "localização": "Recife, PE 🦁",
+    "estudando": ["Python", "HTML", "CSS", "JavaScript"],
+    "foco": "Construir projetos reais e aprender na prática",
+    "objetivo": "Tornar-me um(a) dev full-stack",
+    "curiosidade": True  # sempre ligada
+}
+```
 
 ---
 
-## 📫 Onde me encontrar
+## 🛠️ Tecnologias & Ferramentas
 
-- GitHub: [seu-usuario]  
-- E-mail: [seu-email]  
-- LinkedIn: [seu-linkedin] (se tiver)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-⭐ *"Código limpo hoje, dev melhor amanhã."*
+## 📚 Atualmente aprendendo
+
+- 🐍 Lógica de programação com Python
+- 🌐 Desenvolvimento web (HTML + CSS + JS)
+- 🔧 Versionamento de código com Git & GitHub
+
+---
+
+## 📫 Como me encontrar
+
+[![Instagram](https://img.shields.io/badge/@alexdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexdev)
+[![Email](https://img.shields.io/badge/alex@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@email.com)
+
+---
+
+<p align="center">
+  <i>Feito com ☕ e muita vontade de aprender — Recife, PE</i>
+</p>
