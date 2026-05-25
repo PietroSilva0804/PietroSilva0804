@@ -1,50 +1,58 @@
-[README.md](https://github.com/user-attachments/files/28225369/README.md)
-# 👋 Olá, eu sou Alex Dev!
+<div align="center">
 
-> *"Todo expert já foi um iniciante. O segredo é não parar."*
+# Pietro Novaes
 
-Estudante apaixonado(a) por desenvolvimento de software, baseado(a) em Recife 🌴. Atualmente construindo minha base em Python e desenvolvimento web, um projeto de cada vez.
+Frontend Developer · 17 anos · Recife, Brasil
 
----
-
-## 🧑‍💻 Sobre mim
-
-```python
-alex = {
-    "localização": "Recife, PE 🦁",
-    "estudando": ["Python", "HTML", "CSS", "JavaScript"],
-    "foco": "Construir projetos reais e aprender na prática",
-    "objetivo": "Tornar-me um(a) dev full-stack",
-    "curiosidade": True  # sempre ligada
-}
-```
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
-## 📚 Atualmente aprendendo
+### sobre mim
 
-- 🐍 Lógica de programação com Python
-- 🌐 Desenvolvimento web (HTML + CSS + JS)
-- 🔧 Versionamento de código com Git & GitHub
+Desenvolvedor frontend de 17 anos, apaixonado por interfaces limpas e bem construídas. Gosto de transformar ideias em experiências web que funcionam de verdade.
 
----
-
-## 📫 Como me encontrar
-
-[![Instagram](https://img.shields.io/badge/@alexdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexdev)
-[![Email](https://img.shields.io/badge/alex@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@email.com)
+- 🖥️ Foco em **HTML, CSS e JavaScript** no dia a dia
+- 🔄 Explorando **Python** para automações e scripts
+- 📍 Baseado em **Recife, Brasil**
+- 🚀 Sempre aprendendo algo novo
 
 ---
 
-<p align="center">
-  <i>Feito com ☕ e muita vontade de aprender — Recife, PE</i>
-</p>
+### habilidades
+
+| Tecnologia | Nível |
+|---|---|
+| HTML & CSS | ████████░░ Intermediário |
+| JavaScript | ██████░░░░ Básico-Intermediário |
+| Python | █████░░░░░ Básico |
+
+---
+
+### estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manbao0&show_icons=true&theme=default&hide_border=true&title_color=E34F26&icon_color=1572B6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manbao0&layout=compact&hide_border=true&title_color=E34F26)
+
+</div>
+
+---
+
+### contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+<div align="center">
+  <i>Feito com ☕ e muito código — Recife, PE 🌴</i>
+</div>
