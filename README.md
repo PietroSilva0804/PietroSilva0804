@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pietro Novaes
+# Pietro Silva
 
 Frontend Developer · 17 anos · Recife, Brasil
 
