@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o [Seu Nome]
 
-<!--
-**PietroSilva0804/PietroSilva0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho **17 anos** e sou apaixonado por tecnologia e desenvolvimento de software.  
+Estou sempre em busca de aprender mais e criar soluções úteis e bem estruturadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎂 **Idade:** 17 anos  
+- 🌍 **Localização:** Brasil  
+- 💻 **Foco:** Desenvolvimento backend, automação e sistemas full-stack  
+- 📚 **Atualmente estudando:** Estruturas de dados, APIs REST e boas práticas de código  
+- 🎯 **Objetivo:** Me tornar um desenvolvedor completo e contribuir com projetos open source
+
+---
+
+## 📌 Linguagens que mais domino
+
+### 1. **Python** 🐍  
+Automação, análise de dados, scripts, back-end com Django/FastAPI
+
+### 2. **TypeScript** 📘  
+Aplicações full-stack, React, Node.js, tipagem estática e escalabilidade
+
+---
+
+## 📊 Outras tecnologias que conheço
+
+- JavaScript  
+- SQL  
+- Git & GitHub  
+- HTML/CSS
+
+---
+
+## 📫 Onde me encontrar
+
+- GitHub: [seu-usuario]  
+- E-mail: [seu-email]  
+- LinkedIn: [seu-linkedin] (se tiver)
+
+---
+
+⭐ *"Código limpo hoje, dev melhor amanhã."*
